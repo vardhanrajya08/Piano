@@ -18,6 +18,11 @@
   font-style: normal;
   font-weight: 900;
 }
+
+.one h2 {
+  text-align: center;
+  color: red;
+}
   
   body {
     background-color: #777777;
